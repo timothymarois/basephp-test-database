@@ -1,2 +1,3 @@
 # basephp-test-database
-Testing Database Package
+
+> **Note:** This repository is for testing the [BasePHP - Database](https://github.com/basephp/database).
