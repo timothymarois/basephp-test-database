@@ -1,7 +1,7 @@
 <!doctype html>
 <head>
     <meta charset="utf-8" />
-    <title>BasePHP - Installation</title>
+    <title>BasePHP - Database</title>
     <link href="//fonts.googleapis.com/css?family=Lato:700,400,400italic,700italic" rel="stylesheet" />
     <style>
         body { width: 555px; margin: 0 auto; font: normal 14px/1.42 "Lato", sans-serif;     background: #344f65; padding-top: 75px; }
